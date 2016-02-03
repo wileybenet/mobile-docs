@@ -4,6 +4,6 @@
 .htaccess
 *.sh
 
-public/assets/
+public/assets/images
 config/config.inc.php.template
 cli/proc.php
