@@ -1,7 +1,7 @@
 # public/console.php
 .DS_Store
 .elasticbeanstalk/
-.htaccess
+# .htaccess
 *.sh
 
 public/assets/images
