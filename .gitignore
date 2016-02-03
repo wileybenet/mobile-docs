@@ -1,0 +1,9 @@
+# public/console.php
+.DS_Store
+.elasticbeanstalk/
+.htaccess
+*.sh
+
+public/assets/
+config/config.inc.php.template
+cli/proc.php
